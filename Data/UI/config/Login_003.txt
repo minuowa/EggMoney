@@ -1,0 +1,15 @@
+[UILogin]
+
+Pic1FileName=res\UI\login\LoginEdit.tga
+Pic2FileName=
+
+bTransparent=1
+
+PosX=345
+PosY=417
+Width=250
+Height=40
+
+
+
+bRender=1

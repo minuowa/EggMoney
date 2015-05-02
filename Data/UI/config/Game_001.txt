@@ -1,0 +1,13 @@
+[UILogin]
+
+Pic1FileName=res\UI\GameUI\BottomBanner1182x132.tga
+Pic2FileName=
+
+bTransparent=1
+
+PosX=10
+PosY=560
+Width=1000
+Height=102
+
+bRender=1

@@ -1,0 +1,13 @@
+[UILogin]
+
+Pic1FileName=res\UI\GameUI\SaveScene.tga
+Pic2FileName=res\UI\GameUI\SaveScene2.tga
+
+bTransparent=1
+
+PosX=450
+PosY=5
+Width=150
+Height=50
+
+bRender=0

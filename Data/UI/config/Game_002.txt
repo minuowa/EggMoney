@@ -1,0 +1,13 @@
+[UILogin]
+
+Pic1FileName=res\UI\GameUI\RightRole.tga
+Pic2FileName=
+
+bTransparent=1
+
+PosX=3
+PosY=5
+Width=300
+Height=100
+
+bRender=1

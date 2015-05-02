@@ -1,0 +1,7 @@
+*.log
+*.orig
+*.tlog
+*.obj
+*.exe
+*.pch
+/*.user

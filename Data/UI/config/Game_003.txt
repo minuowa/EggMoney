@@ -1,0 +1,13 @@
+[UILogin]
+
+Pic1FileName=res\UI\GameUI\AddMesh.tga
+Pic2FileName=res\UI\GameUI\AddMesh2.tga
+
+bTransparent=1
+
+PosX=300
+PosY=52
+Width=150
+Height=50
+
+bRender=0

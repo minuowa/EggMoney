@@ -1,0 +1,14 @@
+*.sdf
+ipch
+*.orig
+*.user
+*.log
+*.tlog
+*.pdb
+*.obj
+*.pch
+*.i18nback
+*.opensdf
+*.suo
+*.filters
+*.unsuccessfulbuild

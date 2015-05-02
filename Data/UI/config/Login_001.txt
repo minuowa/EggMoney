@@ -1,0 +1,12 @@
+[UILogin]
+
+Pic1FileName=res\UI\login\login.jpg
+Caption=
+
+PosX=0
+PosY=0
+Width=1008
+Height=662
+
+
+bRender=1

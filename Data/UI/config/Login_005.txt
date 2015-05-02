@@ -1,0 +1,15 @@
+[UILogin]
+
+Pic1FileName=res\UI\login\LoadBar.tga
+Pic2FileName=
+
+bTransparent=1
+
+PosX=200
+PosY=550
+Width=600
+Height=40
+
+
+
+bRender=1

@@ -1,0 +1,9 @@
+[Map]
+HeightMapFileName=res\Map\HeightMap\MapHeight.bmp
+TextureFileName=res\Map\MapFace\BigStone.jpg
+fMapCellWidth=80
+fMapMaxHeight=2000
+nMapCellCount=64
+[ObjList]
+OBJ1=8,0.00,0.00
+OBJ2=8,0.00,0.00

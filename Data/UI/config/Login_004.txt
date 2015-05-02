@@ -1,0 +1,15 @@
+[UILogin]
+
+Pic1FileName=res\UI\login\Login_Ok.tga
+Pic2FileName=res\UI\Login\Login_Ok2.tga
+
+
+bTransparent=1
+PosX=300
+PosY=480
+Width=85
+Height=35
+
+
+
+bRender=1
