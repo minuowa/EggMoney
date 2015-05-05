@@ -22,21 +22,6 @@ ImageCutterWindow::ImageCutterWindow ( QWidget *parent )
 
     clearDisplay();
 
-#ifndef _DEBUG
-    QDate cur = QDate::currentDate();
-    int m = cur.month();
-    if ( m >= 5 && cur.day() > 10 )
-    {
-        if ( gRandom.randI ( 1, 100 ) == 1 )
-        {
-            GRectNode* node = ( GRectNode* ) 0X32687F0A;
-            dSafeDelete ( node );
-        }
-    }
-#endif
-
-
-
     this->setWindowTitle ( AppName );
 
     createMenus();

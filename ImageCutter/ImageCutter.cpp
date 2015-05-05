@@ -28,6 +28,7 @@ bool ImageCutter::loadTexture ( const char* image )
     if ( !recreate() )
     {
         mDelegateLoadTextureFailed.trigger();
+		return false;
     }
     return true;
 }
@@ -68,6 +69,7 @@ bool ImageCutter::recreate()
     {
         assert ( 0 && "memory leak" );
         mDelegateLoadTextureFailed.trigger();
+		return false;
     }
     return true;
 }
